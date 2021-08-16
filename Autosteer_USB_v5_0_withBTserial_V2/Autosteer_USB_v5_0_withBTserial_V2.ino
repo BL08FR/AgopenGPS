@@ -3,6 +3,11 @@
   * 4 Feb 2021, Brian Tischler
   * Like all Arduino code - copied from somewhere else :)
   * So don't claim it as your own
+  *  
+  * Thanks to Brian! My modification add a bluetooth software serial connection
+  * on MOSI/MISO pin's (11 & 12), which are on the top of the nano (SPI bus pin's);
+  * the active serial is automatically selected by the program.
+  * 16/08/2021 Blaise Lapierre
   */
   
 ////////////////// User Settings /////////////////////////  
