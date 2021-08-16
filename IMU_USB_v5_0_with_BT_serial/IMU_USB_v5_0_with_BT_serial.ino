@@ -6,7 +6,8 @@
   * Like all Arduino code - copied from somewhere else :)
   * So don't claim it as your own
   * 
-  * Thanks Brian! Bluetooth modification foe ESP32 from Blaise Lapierre!  * 
+  * Thanks Brian! Bluetooth modification for ESP32.
+  * 16/08/2021 Blaise Lapierre
   */
   
   //BTmod config
